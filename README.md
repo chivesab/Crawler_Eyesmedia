@@ -25,4 +25,4 @@ input how many page do you want to crawl
 ```
 
 ---
-If you have any problem, please [will.lin@eyesmedia.com.tw] to me.
+If you have any problem, please [email](will.lin@eyesmedia.com.tw) to me.
